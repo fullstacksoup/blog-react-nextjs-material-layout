@@ -1,0 +1,6 @@
+{
+    "data": [
+      { "id": "1", "label": "Jobs", "url": "/jobs" },
+      { "id": "2", "label": "Posts", "url": "/posts" }      
+    ]
+  }

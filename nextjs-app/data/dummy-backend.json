@@ -1,0 +1,16 @@
+{
+    "products": [
+      { "id": "p1", "title": "Product 1", "description": "This is product 1" },
+      { "id": "p2", "title": "Product 2", "description": "This is product 2" },
+      { "id": "p3", "title": "Product 3", "description": "This is product 3" },
+      { "id": "p4", "title": "Product 4", "description": "This is product 4" },
+      { "id": "p5", "title": "Product 5", "description": "This is product 5" },
+      { "id": "p6", "title": "Product 6", "description": "This is product 6" },
+      { "id": "p7", "title": "Product 7", "description": "This is product 7" },
+      { "id": "p8", "title": "Product 8", "description": "This is product 8" },
+      { "id": "p9", "title": "Product 9", "description": "This is product 9" },
+      { "id": "p10", "title": "Product 10", "description": "This is product 10" },
+      { "id": "p11", "title": "Product 11", "description": "This is product 11" },
+      { "id": "p12", "title": "Product 12", "description": "This is product 12" }
+    ]
+  }
